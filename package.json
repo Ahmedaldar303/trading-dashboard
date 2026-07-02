@@ -1,7 +1,7 @@
 {
   "name": "trading-dashboard",
   "version": "1.0.0",
-  "description": "Professional SPX 0DTE Trading Dashboard",
+  "description": "Professional SPX 0DTE Trading Dashboard with Bloomberg Terminal UI",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
